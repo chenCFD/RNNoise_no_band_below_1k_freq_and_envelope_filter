@@ -1,7 +1,7 @@
 # rnnoise_no-band-below-1k_envelope-filter
 
-# notification
-## References:
+
+# References:
 
 Paper: [A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement](https://jmvalin.ca/papers/rnnoise_mmsp2018.pdf)  
 
