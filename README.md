@@ -5,7 +5,7 @@
 
 Paper: [A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement](https://jmvalin.ca/papers/rnnoise_mmsp2018.pdf)  
 
-Original Github Repo: [RNNoise](https://github.com/xiph/rnnoise)
+Rnnoise Github Repo: [RNNoise](https://github.com/xiph/rnnoise)
 
 Percepnet Github Repo: [Percepnet-Keras](https://github.com/cookcodes/Percepnet-Keras)
 
@@ -19,7 +19,6 @@ Percepnet Github Repo: [Percepnet-Keras](https://github.com/cookcodes/Percepnet-
 
 # usage
 
-RNNoise is a noise suppression library based on a recurrent neural network.
 
 To compile, just type:
 % ./autogen.sh
