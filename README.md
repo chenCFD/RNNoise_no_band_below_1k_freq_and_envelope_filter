@@ -22,15 +22,15 @@ Percepnet Github Repo: [Percepnet-Keras](https://github.com/cookcodes/Percepnet-
 
 To compile, just type:
 
-% ./autogen.sh
+./autogen.sh
 
-% ./configure
+./configure
 
-% make
+make
 
 Optionally:
 
-% make install
+make install
 
 While it is meant to be used as a library, a simple command-line tool is
 provided as an example. It operates on RAW 16-bit (machine endian) mono
