@@ -25,10 +25,8 @@ To compile, just type:
 
 
 
-./autogen.sh
-
-./configure
-
+./autogen.sh  
+./configure  
 make
 
 
