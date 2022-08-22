@@ -1,4 +1,4 @@
-# rnnoise_no-band-below-1k_envelope-filter
+# rnnoise_no band below 1k/envelope filter
 
 
 # References:
