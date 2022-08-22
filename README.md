@@ -11,7 +11,7 @@ Percepnet Github Repo: [Percepnet-Keras](https://github.com/cookcodes/Percepnet-
 
 
 # Revised point
-The code is from [RNNoise](https://github.com/xiph/rnnoise).  
+The code is revised from [RNNoise](https://github.com/xiph/rnnoise).  
 Revised points is as below:
 
 1. use original frequency bin without bands below 1k frequency
