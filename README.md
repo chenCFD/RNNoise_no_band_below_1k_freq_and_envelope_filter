@@ -23,9 +23,7 @@ Percepnet Github Repo: [Percepnet-Keras](https://github.com/cookcodes/Percepnet-
 To compile, just type:
 
 ./autogen.sh
-
 ./configure
-
 make
 
 Optionally:
