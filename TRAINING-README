@@ -2,9 +2,9 @@
 
 (2) ./denoise_training signal.raw noise.raw count > training.f32
 
-    (note the matrix size and replace 500000 87 below)
+    (note the matrix size and replace 500000 132 below)
 
-(3) cd training ; ./bin2hdf5.py ../src/training.f32 500000 87 training.h5
+(3) cd training ; ./bin2hdf5.py ../src/training.f32 500000 132 training.h5
 
 (4) ./rnn_train.py
 
