@@ -46,7 +46,7 @@ provided as an example. It operates on RAW 16-bit (machine endian) mono
 PCM files sampled at 48 kHz. It can be used as:
 
 
-./examples/rnnoise_demo <noisy speech> <output denoised>
+./examples/rnnoise_demo noisy_speech.raw output_denoised.raw
 
 
 The output is also a 16-bit raw PCM file.
