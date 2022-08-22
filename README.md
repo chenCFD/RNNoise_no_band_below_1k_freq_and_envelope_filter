@@ -12,7 +12,7 @@ Percepnet Github Repo: [Percepnet-Keras](https://github.com/cookcodes/Percepnet-
 
 # Modification point
 The code is modified from [RNNoise](https://github.com/xiph/rnnoise) and [Percepnet-Keras](https://github.com/cookcodes/Percepnet-Keras).  
-Modification points is as below:
+Modification points are as below:
 
 1. use original frequency bin without bands below 1k frequency
 2. use envelope filter (post filter) from percepnet
