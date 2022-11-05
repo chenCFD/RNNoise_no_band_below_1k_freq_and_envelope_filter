@@ -3,7 +3,7 @@
 
 # References:
 
-Paper: [A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement](https://jmvalin.ca/papers/rnnoise_mmsp2018.pdf)  
+Paper: [A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement](https://jmvalin.ca/papers/rnnoise_mmsp2018.pdf)、WEIGHTED SPEECH DISTORTION LOSSES FOR NEURAL-NETWORK-BASED REAL-TIME SPEECH ENHANCEMENT  
 
 Rnnoise Github Repo: [RNNoise](https://github.com/xiph/rnnoise)
 
@@ -17,6 +17,7 @@ Modification points are as below:
 1. use original frequency bin without bands below 1k frequency
 2. use envelope filter (post filter) from percepnet
 3. keep low energy noise (post-processing) for avoid unstable noise (human hearing feeling)
+4. add individual y_pred to loss function
 
 
 # usage
