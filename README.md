@@ -3,7 +3,7 @@
 
 # References:
 
-Paper: [A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement](https://jmvalin.ca/papers/rnnoise_mmsp2018.pdf), WEIGHTED SPEECH DISTORTION LOSSES FOR NEURAL-NETWORK-BASED REAL-TIME SPEECH ENHANCEMENT  
+Paper: [A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement](https://jmvalin.ca/papers/rnnoise_mmsp2018.pdf), [Weighted Speech Distortion Losses For Neural-Network-Based Real-Time Speech Enhancement](https://arxiv.org/abs/2001.10601)  
 
 Rnnoise Github Repo: [RNNoise](https://github.com/xiph/rnnoise)
 
